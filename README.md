@@ -21,9 +21,10 @@
 
 ## 2️⃣ LEVEL2
 
-| Mission  | Repository                                                  | PR1                                                                    | PR2 | 기록 | 회고 |
-|----------|-------------------------------------------------------------|------------------------------------------------------------------------|-----|----|----|
-| 웹 자동차 경주 | [jwp-racingcar](https://github.com/woo-chang/jwp-racingcar) | [1단계 - 웹 자동차 경주](https://github.com/woowacourse/jwp-racingcar/pull/45) |     |    |    |
+| Mission  | Repository                                                          | PR1                                                                         | PR2                                                                     | 기록     |
+|----------|---------------------------------------------------------------------|-----------------------------------------------------------------------------|-------------------------------------------------------------------------|--------|
+| 웹 자동차 경주 | [jwp-racingcar](https://github.com/woo-chang/jwp-racingcar)         | [1단계 - 웹 자동차 경주](https://github.com/woowacourse/jwp-racingcar/pull/45)      | [2단계 - 웹 자동차 경주](https://github.com/woowacourse/jwp-racingcar/pull/168) | [기록]() |
+| 장바구니     | [jwp-shopping-cart](https://github.com/woo-chang/jwp-shopping-cart) | [1단계 - 상품 관리 기능](https://github.com/woowacourse/jwp-shopping-cart/pull/221) |                                                                         | [기록]() |
 
 ## 📚 스터디
 
@@ -35,5 +36,22 @@
 
 ## 📝 블로그
 
-- [[DB] MySQL Root 비밀번호 재설정하기](https://woo-chang.tistory.com/66)
+### Java
+
 - [[Java] 상속을 언제 사용해야 할까?](https://woo-chang.tistory.com/67)
+
+### Spring
+
+- [[Spring] 영속성 컨텍스트는 어디까지 유지되는가?](https://woo-chang.tistory.com/65)
+- [[Spring] RestTemplate 알아보기](https://woo-chang.tistory.com/71)
+- [[Spring] @Controller가 뷰 이름을 반환하지 않는다면](https://woo-chang.tistory.com/72)
+
+### DB
+
+- [[DB] MySQL Root 비밀번호 재설정하기](https://woo-chang.tistory.com/66)
+
+### Web
+
+- [[Web] 웹 서버(WS)와 웹 애플리케이션 서버(WAS)](https://woo-chang.tistory.com/70)
+
+

@@ -21,10 +21,10 @@
 
 ## 2️⃣ LEVEL2
 
-| Mission  | Repository                                                          | PR1                                                                         | PR2                                                                     | 기록     |
-|----------|---------------------------------------------------------------------|-----------------------------------------------------------------------------|-------------------------------------------------------------------------|--------|
-| 웹 자동차 경주 | [jwp-racingcar](https://github.com/woo-chang/jwp-racingcar)         | [1단계 - 웹 자동차 경주](https://github.com/woowacourse/jwp-racingcar/pull/45)      | [2단계 - 웹 자동차 경주](https://github.com/woowacourse/jwp-racingcar/pull/168) | [기록]() |
-| 장바구니     | [jwp-shopping-cart](https://github.com/woo-chang/jwp-shopping-cart) | [1단계 - 상품 관리 기능](https://github.com/woowacourse/jwp-shopping-cart/pull/221) |                                                                         | [기록]() |
+| Mission  | Repository                                                          | PR1                                                                         | PR2                                                                         | 기록                                                                |
+|----------|---------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|-------------------------------------------------------------------|
+| 웹 자동차 경주 | [jwp-racingcar](https://github.com/woo-chang/jwp-racingcar)         | [1단계 - 웹 자동차 경주](https://github.com/woowacourse/jwp-racingcar/pull/45)      | [2단계 - 웹 자동차 경주](https://github.com/woowacourse/jwp-racingcar/pull/168)     | [기록](https://github.com/woo-chang/WIL/tree/main/LEVEL2/racingcar) |
+| 장바구니     | [jwp-shopping-cart](https://github.com/woo-chang/jwp-shopping-cart) | [1단계 - 상품 관리 기능](https://github.com/woowacourse/jwp-shopping-cart/pull/221) | [2단계 - 상품 관리 기능](https://github.com/woowacourse/jwp-shopping-cart/pull/272) | [기록]()                                                            |
 
 ## 📚 스터디
 

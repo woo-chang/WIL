@@ -39,11 +39,11 @@
 
 ### Java
 
-- [상속을 언제 사용해야 할까?](https://woo-chang.tistory.com/67)
+- [상속을 언제 사용해야 할까](https://woo-chang.tistory.com/67)
 
 ### Spring
 
-- [영속성 컨텍스트는 어디까지 유지되는가?](https://woo-chang.tistory.com/65)
+- [영속성 컨텍스트는 어디까지 유지되는가](https://woo-chang.tistory.com/65)
 - [RestTemplate 알아보기](https://woo-chang.tistory.com/71)
 - [@Controller가 뷰 이름을 반환하지 않는다면](https://woo-chang.tistory.com/72)
 - [스프링을 어노테이션 기반으로 만든 이유](https://woo-chang.tistory.com/73)
@@ -56,5 +56,3 @@
 ### Web
 
 - [웹 서버(WS)와 웹 애플리케이션 서버(WAS)](https://woo-chang.tistory.com/70)
-
-

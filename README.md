@@ -21,10 +21,11 @@
 
 ## 2️⃣ LEVEL2
 
-| Mission  | Repository                                                          | PR1                                                                         | PR2                                                                         | 기록                                                                |
-|----------|---------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|-------------------------------------------------------------------|
-| 웹 자동차 경주 | [jwp-racingcar](https://github.com/woo-chang/jwp-racingcar)         | [1단계 - 웹 자동차 경주](https://github.com/woowacourse/jwp-racingcar/pull/45)      | [2단계 - 웹 자동차 경주](https://github.com/woowacourse/jwp-racingcar/pull/168)     | [기록](https://github.com/woo-chang/WIL/tree/main/LEVEL2/racingcar) |
-| 장바구니     | [jwp-shopping-cart](https://github.com/woo-chang/jwp-shopping-cart) | [1단계 - 상품 관리 기능](https://github.com/woowacourse/jwp-shopping-cart/pull/221) | [2단계 - 상품 관리 기능](https://github.com/woowacourse/jwp-shopping-cart/pull/272) | [기록]()                                                            |
+| Mission  | Repository                                                          | PR1                                                                          | PR2                                                                         | 기록                                                                |
+|----------|---------------------------------------------------------------------|------------------------------------------------------------------------------|-----------------------------------------------------------------------------|-------------------------------------------------------------------|
+| 웹 자동차 경주 | [jwp-racingcar](https://github.com/woo-chang/jwp-racingcar)         | [1단계 - 웹 자동차 경주](https://github.com/woowacourse/jwp-racingcar/pull/45)       | [2단계 - 웹 자동차 경주](https://github.com/woowacourse/jwp-racingcar/pull/168)     | [기록](https://github.com/woo-chang/WIL/tree/main/LEVEL2/racingcar) |
+| 장바구니     | [jwp-shopping-cart](https://github.com/woo-chang/jwp-shopping-cart) | [1단계 - 상품 관리 기능](https://github.com/woowacourse/jwp-shopping-cart/pull/221)  | [2단계 - 상품 관리 기능](https://github.com/woowacourse/jwp-shopping-cart/pull/272) | [기록]()                                                            |
+| 지하철      | [jwp-subway-path](https://github.com/woo-chang/jwp-subway-path)     | [1단계 - 지하철 정보 관리 기능](https://github.com/woowacourse/jwp-subway-path/pull/14) | [2단계 - 경로 조회 기능]()                                                          | [기록]()                                                            |
 
 ## 📚 스터디
 
@@ -38,20 +39,22 @@
 
 ### Java
 
-- [[Java] 상속을 언제 사용해야 할까?](https://woo-chang.tistory.com/67)
+- [상속을 언제 사용해야 할까?](https://woo-chang.tistory.com/67)
 
 ### Spring
 
-- [[Spring] 영속성 컨텍스트는 어디까지 유지되는가?](https://woo-chang.tistory.com/65)
-- [[Spring] RestTemplate 알아보기](https://woo-chang.tistory.com/71)
-- [[Spring] @Controller가 뷰 이름을 반환하지 않는다면](https://woo-chang.tistory.com/72)
+- [영속성 컨텍스트는 어디까지 유지되는가?](https://woo-chang.tistory.com/65)
+- [RestTemplate 알아보기](https://woo-chang.tistory.com/71)
+- [@Controller가 뷰 이름을 반환하지 않는다면](https://woo-chang.tistory.com/72)
+- [스프링을 어노테이션 기반으로 만든 이유](https://woo-chang.tistory.com/73)
+- [BeanFactory, ApplicationContext](https://woo-chang.tistory.com/74)
 
 ### DB
 
-- [[DB] MySQL Root 비밀번호 재설정하기](https://woo-chang.tistory.com/66)
+- [MySQL Root 비밀번호 재설정하기](https://woo-chang.tistory.com/66)
 
 ### Web
 
-- [[Web] 웹 서버(WS)와 웹 애플리케이션 서버(WAS)](https://woo-chang.tistory.com/70)
+- [웹 서버(WS)와 웹 애플리케이션 서버(WAS)](https://woo-chang.tistory.com/70)
 
 

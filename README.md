@@ -17,23 +17,18 @@
 | 블랙잭     | [java-blackjack](https://github.com/woo-chang/java-blackjack) | [1단계 - 블랙잭 실행](https://github.com/woowacourse/java-blackjack/pull/443)    | [2단계 - 블랙잭 베팅](https://github.com/woowacourse/java-blackjack/pull/494)      | [기록](https://github.com/woo-chang/WIL/tree/main/LEVEL1/blackjack) | [회고](https://woo-chang.tistory.com/68) |
 | 체스      | [java-chess](https://github.com/woo-chang/java-chess)         | [1,2단계 - 체스](https://github.com/woowacourse/java-chess/pull/488)          | [3,4단계 - 체스](https://github.com/woowacourse/java-chess/pull/548)            | [기록](https://github.com/woo-chang/WIL/tree/main/LEVEL1/chess)     | [회고](https://woo-chang.tistory.com/69) |
 
-🦋 [글쓰기 - 우테코 한달 생활기](https://github.com/woo-chang/woowa-writing-5)
+🦋 [글쓰기 - 우테코 한달 생활기](https://github.com/woo-chang/woowa-writing-5/blob/main/README.md)
 
 ## 2️⃣ LEVEL2
 
-| Mission  | Repository                                                          | PR1                                                                          | PR2                                                                         | 기록                                                                |
-|----------|---------------------------------------------------------------------|------------------------------------------------------------------------------|-----------------------------------------------------------------------------|-------------------------------------------------------------------|
-| 웹 자동차 경주 | [jwp-racingcar](https://github.com/woo-chang/jwp-racingcar)         | [1단계 - 웹 자동차 경주](https://github.com/woowacourse/jwp-racingcar/pull/45)       | [2단계 - 웹 자동차 경주](https://github.com/woowacourse/jwp-racingcar/pull/168)     | [기록](https://github.com/woo-chang/WIL/tree/main/LEVEL2/racingcar) |
-| 장바구니     | [jwp-shopping-cart](https://github.com/woo-chang/jwp-shopping-cart) | [1단계 - 상품 관리 기능](https://github.com/woowacourse/jwp-shopping-cart/pull/221)  | [2단계 - 상품 관리 기능](https://github.com/woowacourse/jwp-shopping-cart/pull/272) | [기록]()                                                            |
-| 지하철      | [jwp-subway-path](https://github.com/woo-chang/jwp-subway-path)     | [1단계 - 지하철 정보 관리 기능](https://github.com/woowacourse/jwp-subway-path/pull/14) | [2단계 - 경로 조회 기능]()                                                          | [기록]()                                                            |
+| Mission  | Repository                                                            | PR1                                                                          | PR2                                                                           | 기록                                                                |
+|----------|-----------------------------------------------------------------------|------------------------------------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| 웹 자동차 경주 | [jwp-racingcar](https://github.com/woo-chang/jwp-racingcar)           | [1단계 - 웹 자동차 경주](https://github.com/woowacourse/jwp-racingcar/pull/45)       | [2단계 - 웹 자동차 경주](https://github.com/woowacourse/jwp-racingcar/pull/168)       | [기록](https://github.com/woo-chang/WIL/tree/main/LEVEL2/racingcar) |
+| 장바구니     | [jwp-shopping-cart](https://github.com/woo-chang/jwp-shopping-cart)   | [1단계 - 상품 관리 기능](https://github.com/woowacourse/jwp-shopping-cart/pull/221)  | [2단계 - 상품 관리 기능](https://github.com/woowacourse/jwp-shopping-cart/pull/272)   | [기록]()                                                            |
+| 지하철      | [jwp-subway-path](https://github.com/woo-chang/jwp-subway-path)       | [1단계 - 지하철 정보 관리 기능](https://github.com/woowacourse/jwp-subway-path/pull/14) | [2단계 - 경로 조회 기능](https://github.com/woowacourse/jwp-subway-path/pull/130)     | [기록]()                                                            |
+| 주문       | [jwp-shopping-order](https://github.com/woo-chang/jwp-shopping-order) |                                                                              | [[2단계 - 주문 기능 구현]](https://github.com/woowacourse/jwp-shopping-order/pull/28) | [기록]()                                                            |
 
-## 📚 스터디
-
-| 스터디명           | 내용                           | 기간             | 저장소                                                                        |
-|----------------|------------------------------|----------------|----------------------------------------------------------------------------|
-| 꾸글스            | 꾸준히 글 쓰는 크루들 모임              | `2023.02.27` ~ | [Repo](https://github.com/woowacourse-study/Gugles)                        |
-| 소코스            | 소소한 코드리뷰 스터디                 | `2023.03.01` ~ | [Repo](https://github.com/orgs/woowacourse-code-review-study/repositories) |
-| 배네카라쿠 알고리즘 뿌수기 | 코딩 테스트 준비를 위한 알고리즘 문제 풀이 스터디 | `2023.02.27` ~ | [Repo](https://github.com/woowacourse-study/BREAK_BNKLC_ALG)               |
+🦋 [글쓰기 - 레벨2를 마치며](https://github.com/woo-chang/woowa-writing-5/blob/main/level2.md)
 
 ## 📝 블로그
 
@@ -48,6 +43,7 @@
 - [@Controller가 뷰 이름을 반환하지 않는다면](https://woo-chang.tistory.com/72)
 - [스프링을 어노테이션 기반으로 만든 이유](https://woo-chang.tistory.com/73)
 - [BeanFactory, ApplicationContext](https://woo-chang.tistory.com/74)
+- [ObjectMapper에서 LocalDateTime이 변환되지 않는 문제](https://woo-chang.tistory.com/75)
 
 ### DB
 

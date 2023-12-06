@@ -30,11 +30,33 @@
 
 🦋 [글쓰기 - 레벨2를 마치며](https://github.com/woo-chang/woowa-writing-5/blob/main/level2.md)
 
+## 3️⃣ LEVEL3
+
+[Fun from Choice! 오늘도 즐거운 한 표 ✅](https://github.com/woowacourse-teams/2023-votogether)
+
+## 4️⃣ LEVEL4
+
+| Mission         | Repository                                                            | PR1                                                                                 | PR2                                                                                 | PR3                                                                                 | PR4                                                                                 | 
+|-----------------|-----------------------------------------------------------------------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| Tomcat 구현하기     | [jwp-dashboard-http](https://github.com/woo-chang/jwp-dashboard-http) | [1, 2단계 - 톰캣 구현하기](https://github.com/woowacourse/jwp-dashboard-http/pull/316)      | [3, 4단계 - 톰캣 구현하기](https://github.com/woowacourse/jwp-dashboard-http/pull/470)      |                                                                                     |                                                                                     |
+| @MVC 구현하기       | [jwp-dashboard-mvc](https://github.com/woo-chang/jwp-dashboard-mvc)   | [1단계 - MVC 구현하기](https://github.com/woowacourse/jwp-dashboard-mvc/pull/412)         | [2단계 - MVC 구현하기](https://github.com/woowacourse/jwp-dashboard-mvc/pull/510)         | [3단계 - MVC 구현하기](https://github.com/woowacourse/jwp-dashboard-mvc/pull/589)         |                                                                                     |
+| JDBC 라이브러리 구현하기 | [jwp-dashboard-jdbc](https://github.com/woo-chang/jwp-dashboard-jdbc) | [1단계 - JDBC 라이브러리 구현하기](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/366) | [2단계 - JDBC 라이브러리 구현하기](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/375) | [3단계 - JDBC 라이브러리 구현하기](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/481) | [4단계 - JDBC 라이브러리 구현하기](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/566) |
+| 레거시 코드 리팩터링     | [jwp-refactoring](https://github.com/woo-chang/jwp-refactoring)       | [1단계 - 레거시 코드 리팩토링](https://github.com/woowacourse/jwp-refactoring/pull/499)        | [2단계 - 레거시 코드 리팩토링](https://github.com/woowacourse/jwp-refactoring/pull/568)        | [3단계 - 레거시 코드 리팩토링](https://github.com/woowacourse/jwp-refactoring/pull/676)        | [4단계 - 레거시 코드 리팩토링](https://github.com/woowacourse/jwp-refactoring/pull/789)        |        
+
+🦋 [글쓰기 - 내가 꿈꾸는 프로그래머로서의 삶](https://github.com/woo-chang/woowa-writing-5/blob/level4/level4.md)
+
+## ✨ ETC
+
+🎉 [테코톡 - 클린 아키텍처](https://www.youtube.com/watch?v=Ql7CoQminoM)
+
+🎉 [스터디 - 코드리뷰 스터디](https://github.com/orgs/woowacourse-code-review-study/repositories)
+
 ## 📝 블로그
 
 ### Java
 
 - [상속을 언제 사용해야 할까](https://woo-chang.tistory.com/67)
+- [JDBC 개념 정리](https://woo-chang.tistory.com/76)
 
 ### Spring
 
@@ -44,10 +66,15 @@
 - [스프링을 어노테이션 기반으로 만든 이유](https://woo-chang.tistory.com/73)
 - [BeanFactory, ApplicationContext](https://woo-chang.tistory.com/74)
 - [ObjectMapper에서 LocalDateTime이 변환되지 않는 문제](https://woo-chang.tistory.com/75)
+- [프로메테우스, 그라파나를 이용한 스프링 부트 모니터링](https://woo-chang.tistory.com/78)
+- [@DataJpaTest 데이터베이스 환경 문제](https://woo-chang.tistory.com/79)
+- [스프링 부트 프로젝트에 Swagger 적용](https://woo-chang.tistory.com/80)
+- [@Embeddable 사용 시 NullPointerException 문제 해결](https://woo-chang.tistory.com/83)
 
 ### DB
 
 - [MySQL Root 비밀번호 재설정하기](https://woo-chang.tistory.com/66)
+- [GitHub Container Registry에 도커 이미지 올려 사용하기](https://woo-chang.tistory.com/81)
 
 ### Web
 
